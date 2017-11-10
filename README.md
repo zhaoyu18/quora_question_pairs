@@ -1,3 +1,5 @@
+Quora Question Pairs 链接：https://www.kaggle.com/c/quora-question-pairs
+
 选择参加 Quora 这场比赛主要是为了学习一下 NLP（自然语言处理）。受益于广大 kagglers 无私的分享，收获挺大。
 
 先简单总结一下我的方案，主要使用了两种 model：
